@@ -8,7 +8,7 @@ HTML , SASS , SCSS ve CSS kullanıldı.
 
 
 <h3>Ekran Görüntüleri</h3>
-![Ekran görüntüsü 2023-05-08 194031](https://github.com/EyupSaltukB/tavuk/assets/129687853/d85717a3-bafc-4605-abe4-e1e1d6798f6b)
+
 
 
 <h4> Video </h4>
