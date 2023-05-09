@@ -9,6 +9,7 @@ HTML , SASS , SCSS ve CSS kullanıldı.
 
 <h3>Ekran Görüntüleri</h3>
 
+![sschicken](https://github.com/EyupSaltukB/tavuk/assets/129687853/2a2558e5-cf98-407c-9d78-9361489ea02a)
 
 
 <h4> Video </h4>
